@@ -60,7 +60,7 @@ export const teamMembers: readonly TeamMember[] = [
   {
     id: "integrante-03",
     name: "Facundo Iriarte",
-    description: "Me gusta trabajar en equipo y complementar las habilidades de mis compañeros. También colaboro en la organización de proyectos, la comunicación con clientes y la experiencia de usuario.",
+    description: memberDescription,
     portrait: {
       kind: "image",
       src: "/team/Facundo_Iriarte.jpg",
