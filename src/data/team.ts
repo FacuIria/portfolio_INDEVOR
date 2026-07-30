@@ -60,10 +60,10 @@ export const teamMembers: readonly TeamMember[] = [
   {
     id: "integrante-03",
     name: "Facundo Iriarte",
-    description: memberDescription,
+    description: "Me gusta trabajar en equipo y complementar las habilidades de mis compañeros. También colaboro en la organización de proyectos, la comunicación con clientes y la experiencia de usuario.",
     portrait: {
       kind: "image",
-      src: "/team/cui-cui.jpg",
+      src: "/team/Facundo_Iriarte.jpg",
       alt: "Facundo Iriarte, integrante de INDEVOR",
       width: 880,
       height: 1184,
