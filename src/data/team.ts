@@ -28,7 +28,7 @@ export type TeamMember = Readonly<{
   links?: TeamMemberLinks;
 }>;
 
-const memberDescription = "Estudiante de Ingeniería Informática.";
+const memberDescription = " ";
 
 export const teamMembers: readonly TeamMember[] = [
   {
@@ -46,12 +46,12 @@ export const teamMembers: readonly TeamMember[] = [
   },
   {
     id: "integrante-02",
-    name: "Telita",
+    name: "Santiago Peralta",
     description: memberDescription,
     portrait: {
       kind: "image",
       src: "/team/telita.jpg",
-      alt: "Telita, integrante de INDEVOR",
+      alt: "Santiago Peralta, integrante de INDEVOR",
       width: 748,
       height: 1600,
       position: "center 30%",
@@ -59,24 +59,24 @@ export const teamMembers: readonly TeamMember[] = [
   },
   {
     id: "integrante-03",
-    name: "Cui cui",
+    name: "Facundo Iriarte",
     description: memberDescription,
     portrait: {
       kind: "image",
       src: "/team/cui-cui.jpg",
-      alt: "Cui cui, integrante de INDEVOR",
+      alt: "Facundo Iriarte, integrante de INDEVOR",
       width: 880,
       height: 1184,
     },
   },
   {
     id: "integrante-04",
-    name: "Cejitas premium",
+    name: "Facundo Moran",
     description: memberDescription,
     portrait: {
       kind: "image",
       src: "/team/cejitas-premium.jpg",
-      alt: "Cejitas premium, integrante de INDEVOR",
+      alt: "Facundo Moran, integrante de INDEVOR",
       width: 676,
       height: 899,
     },

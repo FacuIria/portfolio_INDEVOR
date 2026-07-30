@@ -89,7 +89,7 @@ export const siteConfig = {
   },
   about: {
     description:
-      "Somos cinco estudiantes de Ingeniería Informática. Diseñamos y desarrollamos productos digitales juntos.",
+      "Desarrollamos soluciones digitales, creamos sitios web, y automatizaciones que impulsan el crecimiento de tú empresa.",
   },
   capabilities: {
     items: [
